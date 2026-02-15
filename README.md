@@ -1,7 +1,7 @@
 # OnStepX-Japanese-Website
 Japanese Localization for OnStepX Website Plugin
 
-OnStepXのWebsiteプラグインを日本語化したものです。
+OnStepXのWebsiteプラグインに日本語ファイルを追加したものです。
 
 ## 特徴
 - UIの日本語化
