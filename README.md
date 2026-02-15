@@ -13,7 +13,7 @@ OnStepXのWebsiteプラグインに日本語ファイルを追加したもので
 
 ## 使い方
 1. このリポジトリのファイルをダウンロードします。
-2. website ディレクトリを OnStepX/src/plugins ディレクトリにコピーし、以下の例のように Plugins.config.h にエントリーを追加する必要があります。実際は、コメントアウト（//）を削除して有効化します。
+2. website ディレクトリを OnStepX/src/plugins ディレクトリにコピーし、以下の例のように Plugins.config.h にエントリーを追加する必要があります。実際は、コメントアウト（//）を削除して有効化します。プラグイン名は、ディレクトリ名と（大文字小文字も含め）一致している必要があります。
 
 - #define PLUGIN1 website
 - #include "website/Website.h"
